@@ -1,0 +1,20 @@
+/Users/rabbit0v0/Haskell/Assignment2/code/part2/package.yaml:
+  hash: dea9a9cad1cc5fec4dc2507481376af0ad8a696fd5e3bb64c94309e6c7aaf942
+  size: 675
+  modtime: 1599640998
+/Users/rabbit0v0/Haskell/Assignment2/code/part2/boa.cabal:
+  hash: d03de6e23e5722d309dd53d7b460095210a30816cade7a2567a5058f9058f61f
+  size: 978
+  modtime: 1600123896
+/Users/rabbit0v0/Haskell/Assignment2/code/part2/src/BoaAST.hs:
+  hash: 8f6baeb4897b7bf250ac6cbccf0703a635673a6d55b6257ded1b3bbec3858745
+  size: 695
+  modtime: 1599468134
+/Users/rabbit0v0/Haskell/Assignment2/code/part2/app/Main.hs:
+  hash: 362b97b124fc0220f21274b901e95c809e4ae84c733ab540e057e5343c8f3be7
+  size: 686
+  modtime: 1599641214
+/Users/rabbit0v0/Haskell/Assignment2/code/part2/src/BoaInterp.hs:
+  hash: 603a9421216fbc69f1fc89a3606e36524a48255bbf70cf6206c8ef469837303e
+  size: 6139
+  modtime: 1600262780
